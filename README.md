@@ -1,2 +1,3 @@
 # powerhell_x1
-Powershell profile
+
+this is my Powershell profile
